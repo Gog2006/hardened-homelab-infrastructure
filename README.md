@@ -15,7 +15,6 @@ Observability Layer: A dedicated monitoring VM scrapes metrics from all nodes fo
 
 The project documentation is organized into two primary formats for ease of access:
 /docs: Contains original Markdown (.md) files with raw configuration snippets and step-by-step terminal commands.
-/pdf: Contains exported PDF versions of the technical guides for offline reading and professional sharing.
 
 Key Documentation Highlights:
 
